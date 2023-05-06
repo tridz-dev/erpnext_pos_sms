@@ -92,8 +92,6 @@ doc_events = {
 #    "Sales Invoice": {"on_submit": ["erpnext_pos_sms.sms.send_sms"]	
    }
 
-}
-
 # Scheduled Tasks
 # ---------------
 
